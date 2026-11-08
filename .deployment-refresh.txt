@@ -1,1 +1,2 @@
 Deployment refresh to publish updated Niko game links to https://playnikogames.com/.
+Retry deployment requested; Niko game buttons use https://playnikogames.com/.
