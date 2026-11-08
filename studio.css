@@ -14,3 +14,7 @@ body.studio{background:#080c1a}.studio .nav{max-width:1320px}.studio .nav nav a[
 .studio-about .emblem-ring{display:none}
 .studio-about .emblem-note{left:18px;bottom:18px;color:white;background:#0a1425bd;padding:10px;border-radius:6px}
 @media(max-width:700px){.studio-hero{background-position:61% center;background-image:linear-gradient(90deg,rgba(5,10,24,.91),rgba(5,10,24,.52)),url('./assets/hero.webp')}.studio-about .about-emblem{background-position:70% center}}
+
+/* Distinct artwork for upcoming Niko concepts */
+.studio-tile.future:not(.alt) .tile-art{background:linear-gradient(#07132d16,#07132d42),url('./assets/dragon-world.webp') center/cover}
+.studio-tile.future.alt .tile-art{background:linear-gradient(#07132d10,#07132d35),url('./assets/farm-world.webp') center/cover}
