@@ -9,7 +9,7 @@ body.studio{background:#080c1a}.studio .nav{max-width:1320px}.studio .nav nav a[
 .studio-tile.release .tile-art>*{display:none}
 .studio-tile.future .tile-art{background:linear-gradient(#0a15312b,#0a15314d),url('./assets/coming-soon.webp') center/cover;border-radius:13px;margin:18px 0 10px}
 .studio-tile.future .tile-art>*{display:none}
-.studio-tile.future.alt .tile-art{background:linear-gradient(140deg,#303059,#151d37)}
+.studio-tile.future.alt .tile-art{background:linear-gradient(120deg,#0b163b55,#14112b99),url('./assets/coming-soon.webp') 76% 52%/cover}
 .studio-about .about-emblem{background:linear-gradient(0deg,#070c20bd,transparent 52%),url('./assets/studio.webp') center/cover}
 .studio-about .emblem-ring{display:none}
 .studio-about .emblem-note{left:18px;bottom:18px;color:white;background:#0a1425bd;padding:10px;border-radius:6px}
